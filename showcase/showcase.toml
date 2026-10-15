@@ -1,0 +1,15 @@
+[[media]]
+file = "rally.png"
+name = "Find a gap in the rotating court"
+
+[[media]]
+file = "rally.json.gz"
+name = "Spin and ricochets in motion"
+
+[[media]]
+file = "title.png"
+name = "Welcome to the paddle club"
+
+[[media]]
+file = "versus.png"
+name = "A local duel at match point"
